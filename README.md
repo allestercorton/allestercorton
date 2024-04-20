@@ -4,8 +4,8 @@ Hi I am Allester Corton currently based in Ormoc City Philippines, I am a junior
 
 Skills: HTML / CSS / JS / PHP / SQL
 
-- 🔭 I’m currently learning MERN stack. 
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning MERN stack.
 - 💬 Ask me about Formula 1. 
 - ⚡ Fun fact: Mercedes is my team in Formula 1. 
 
