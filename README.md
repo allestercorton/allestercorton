@@ -2,6 +2,8 @@
 #### Web Developer
 Hi I am Allester Corton currently based in Ormoc City Philippines, I am a junior web developer. My hobbies are coding and watching FORMULA 1. I love coding and I want to build new things.
 
+"There is a solution, I just need to find it."
+
 Skills: HTML / CSS / JS / PHP / SQL
 
 - 🔭 I’m currently working on this page. 
