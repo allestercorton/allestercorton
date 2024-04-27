@@ -20,7 +20,7 @@ Passionate web developer with a love for problem-solving and a knack for buildin
   ![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=flat-square&logo=mysql)
   ![Node.js](https://img.shields.io/badge/Node.js-14-green?style=flat-square&logo=node.js)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green?style=flat-square&logo=mongodb)
-  ![Laravel](https://img.shields.io/badge/Laravel-8-red?style=flat-square&logo=laravel)
+  ![Laravel](https://img.shields.io/badge/Laravel-10-red?style=flat-square&logo=laravel)
   
 - **Tools:** 
   ![Git](https://img.shields.io/badge/Git-2-black?style=flat-square&logo=git)
