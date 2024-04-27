@@ -26,12 +26,10 @@ Passionate web developer with a love for problem-solving and a knack for buildin
   ![Git](https://img.shields.io/badge/Git-2-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/GitHub-2.0-black?style=flat-square&logo=github)
   ![VS Code](https://img.shields.io/badge/VS_Code-1-blue?style=flat-square&logo=visual-studio-code)
-  ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-8-blue?style=flat-square&logo=mysql)
   ![Postman](https://img.shields.io/badge/Postman-8-orange?style=flat-square&logo=postman)
   ![Laragon](https://img.shields.io/badge/Laragon-4.0.16-orange?style=flat-square&logo=laragon)
   ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-2.8.4-black?style=flat-square&logo=github)
   ![Vercel](https://img.shields.io/badge/Vercel-2.0-black?style=flat-square&logo=vercel)
-  ![Node.js](https://img.shields.io/badge/Node.js-14-green?style=flat-square&logo=node.js)
   ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4.4-green?style=flat-square&logo=mongodb)
 
 **About Me:**
