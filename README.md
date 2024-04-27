@@ -1,16 +1,22 @@
-### Hi there 👋, I am Allester Corton
-#### Web Developer
-Hi I am Allester Corton currently based in Ormoc City Philippines, I am a junior web developer. My hobbies are coding and watching FORMULA 1. I love coding and I want to build new things.
+### Hi there 👋, I'm Allester Corton
+![Profile Picture](link-to-your-image)
 
-"There is a solution, I just need to find it."
+#### Web Developer | Ormoc City, Philippines
+Passionate web developer with a love for problem-solving and a knack for building innovative solutions. Currently focused on honing skills in frontend and backend development to become a proficient Software Engineer.
 
-Skills: HTML / CSS / JS / PHP / SQL
+**Skills:**
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP, SQL
+- **Tools:** Git, VS Code, MySQL Workbench
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning MERN stack.
-- 💬 Ask me about Formula 1. 
-- ⚡ Fun fact: Mercedes is my team in Formula 1. 
+**Current Focus:**
+- 🔭 Working on enhancing my personal website to showcase recent projects and skills.
+- 🌱 Learning the MERN stack to expand my expertise in full-stack development.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+**Let's Connect:**
+- 💬 Ask me about Formula 1 or discuss web development projects.
+- ⚡ Fun fact: Mercedes is my favorite team in Formula 1.
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=allestercorton)  
+**Get in Touch:**
+- 📧 Email: cortonallester@gmail.com
+- 📱 Phone: 09513666254
