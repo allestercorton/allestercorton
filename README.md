@@ -1,13 +1,12 @@
 ### Hi there 👋, I'm Allester Corton
-![Profile Picture](link-to-your-image)
 
 #### Web Developer | Ormoc City, Philippines
 Passionate web developer with a love for problem-solving and a knack for building innovative solutions. Currently focused on honing skills in frontend and backend development to become a proficient Software Engineer.
 
 **Skills:**
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP, SQL
-- **Tools:** Git, VS Code, MySQL Workbench
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** PHP, SQL, jQuery, Nodejs, MongoDB, 
+- **Tools:** Git, GitHub, VS Code, MySQL Workbench
 
 **Current Focus:**
 - 🔭 Working on enhancing my personal website to showcase recent projects and skills.
