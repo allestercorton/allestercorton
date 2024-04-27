@@ -4,9 +4,14 @@
 Passionate web developer with a love for problem-solving and a knack for building innovative solutions. Currently focused on honing skills in frontend and backend development to become a proficient Software Engineer.
 
 **Skills:**
-- **Frontend:** HTML, CSS, JavaScript, jQuery, React
-- **Backend:** C, PHP, SQL, Nodejs, MongoDB, Laravel
+- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery, React
+- **Backend:** C, PHP, Python, SQL, Nodejs, MongoDB, Laravel
 - **Tools:** Git, GitHub, VS Code, MySQL Workbench
+
+**About Me:**
+- 🚀 Passionate about creating exceptional web experiences through clean and efficient code.
+- 💡 Constantly seeking out new technologies and techniques to elevate my skills.
+- 🌟 Committed to delivering high-quality solutions that exceed expectations and drive results.
 
 **Current Focus:**
 - 🔭 Working on enhancing my personal website to showcase recent projects and skills.
