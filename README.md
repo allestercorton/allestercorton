@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Allester Corton
-
-#### Web Developer | Ormoc City, Philippines
+#### Software Engineer | Ormoc City, Philippines
 Passionate web developer with a love for problem-solving and a knack for building innovative solutions. Currently focused on honing skills in frontend and backend development to become a proficient Software Engineer.
 
 **Skills:**
