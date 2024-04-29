@@ -3,27 +3,27 @@ Passionate web developer with a love for problem-solving and a knack for buildin
 
 **Skills:**
 - **Frontend:** 
-  ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5)
-  ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-green?style=flat-square&logo=tailwind-css)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
-  ![jQuery](https://img.shields.io/badge/jQuery-blue?style=flat-square&logo=jquery)
-  ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
+  ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)
+  ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+  ![jQuery](https://img.shields.io/badge/jQuery-black?style=flat-square&logo=jquery)
+  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
   
 - **Backend:** 
-  ![PHP](https://img.shields.io/badge/PHP-blue?style=flat-square&logo=php)
-  ![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square&logo=mysql)
-  ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb)
-  ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel)
+  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+  ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql)
+  ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+  ![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)
   
 - **Tools:** 
   ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
-  ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat-square&logo=visual-studio-code)
-  ![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square&logo=postman)
-  ![Laragon](https://img.shields.io/badge/Laragon-orange?style=flat-square&logo=laragon)
+  ![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat-square&logo=visual-studio-code)
+  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+  ![Laragon](https://img.shields.io/badge/Laragon-black?style=flat-square&logo=laragon)
   ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-black?style=flat-square&logo=github)
   ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
 
