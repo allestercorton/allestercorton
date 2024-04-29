@@ -23,8 +23,8 @@ Passionate web developer with a love for problem-solving and a knack for buildin
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-  ![Laragon](https://img.shields.io/badge/Laragon-FF5733?style=flat-square&logo=laragon&logoColor=white)
   ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-181717?style=flat-square&logo=github&logoColor=white)
+  ![Laragon](https://img.shields.io/badge/Laragon-0082FC?style=flat-square&logo=laragon&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **About Me:**
