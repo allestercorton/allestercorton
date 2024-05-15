@@ -29,6 +29,8 @@ Passionate web developer with a love for problem-solving and a knack for buildin
   ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-6f42c1?style=flat-square&logo=github&logoColor=white)
   ![Laragon](https://img.shields.io/badge/Laragon-0082FC?style=flat-square&logo=laragon&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 **About Me:**
 - 🚀 Passionate about creating exceptional web experiences through clean and efficient code.
