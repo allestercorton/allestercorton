@@ -43,7 +43,7 @@ Passionate web developer with a love for problem-solving and a knack for buildin
 
 **Let's Connect:**
 - 💬 Ask me about Formula 1 or discuss web development projects.
-- ⚡ Fun fact: Mercedes is my favorite team in Formula 1.
+- ⚡ Fun fact: McLaren is my team in Formula 1.
 
 **Get in Touch:**
 - 📧 Email: cortonallester@gmail.com
