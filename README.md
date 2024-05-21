@@ -43,7 +43,7 @@ Passionate web developer with a love for problem-solving and a knack for buildin
 
 **Let's Connect:**
 - 💬 Ask me about Formula 1 or discuss web development projects.
-- ⚡ Fun fact: Mercedes is my team in Formula 1. Let's watch live at:  ![Latifi Streams](https://latifistreams.com/)
+- ⚡ Fun fact: Mercedes is my team in Formula 1. Let's watch live at: [Latifi Streams](https://latifistreams.com/)
 
 **Get in Touch:**
 - 📧 Email: cortonallester@gmail.com
