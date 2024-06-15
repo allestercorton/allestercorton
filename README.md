@@ -18,7 +18,6 @@ Passionate web developer with a love for problem-solving and a knack for buildin
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) <!-- C# for Backend -->
   
 - **Tools:** 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -27,9 +26,6 @@ Passionate web developer with a love for problem-solving and a knack for buildin
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
   ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-6f42c1?style=flat-square&logo=github&logoColor=white)
   ![Laragon](https://img.shields.io/badge/Laragon-0082FC?style=flat-square&logo=laragon&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 **About Me:**
 - 🚀 Passionate about creating exceptional web experiences through clean and efficient code.
