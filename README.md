@@ -1,4 +1,4 @@
-#### Software Engineer | Ormoc City, Philippines
+#### Web Developer | Ormoc City, Philippines
 Passionate web developer with a love for problem-solving and a knack for building innovative solutions. Currently focused on honing skills in frontend and backend development to become a proficient Software Engineer.
 
 **Skills:**
@@ -16,15 +16,7 @@ Passionate web developer with a love for problem-solving and a knack for buildin
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-  
-- **Tools:** 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-  ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-6f42c1?style=flat-square&logo=github&logoColor=white)
-  ![Laragon](https://img.shields.io/badge/Laragon-0082FC?style=flat-square&logo=laragon&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **About Me:**
 - 🚀 Passionate about creating exceptional web experiences through clean and efficient code.
@@ -37,7 +29,7 @@ Passionate web developer with a love for problem-solving and a knack for buildin
 
 **Let's Connect:**
 - 💬 Ask me about Formula 1 or discuss web development projects.
-- ⚡ Fun fact: Mercedes is my team in Formula 1. Let's watch live at: [Latifi Streams](https://latifistreams.com/)
+- ⚡ Fun fact: Mercedes is my team in Formula 1. Let's watch livestream at my website: [EverGreen](https://evergreenstreams.vercel.app/)
 
 **Get in Touch:**
 - 📧 Email: cortonallester@gmail.com
