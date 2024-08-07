@@ -17,15 +17,6 @@ Passionate web developer with a love for problem-solving and a knack for buildin
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**About Me:**
-- 🚀 Passionate about creating exceptional web experiences through clean and efficient code.
-- 💡 Constantly seeking out new technologies and techniques to elevate my skills.
-- 🌟 Committed to delivering high-quality solutions that exceed expectations and drive results.
-
-**Current Focus:**
-- 🔭 Working on enhancing my personal website to showcase recent projects and skills.
-- 🌱 Learning the MERN stack to expand my expertise in full-stack development.
-
 **Let's Connect:**
 - 💬 Ask me about Formula 1 or discuss web development projects.
 - ⚡ Fun fact: Mercedes is my team in Formula 1. Let's watch livestream at my website: [EverGreen](https://evergreenstreams.vercel.app/)
