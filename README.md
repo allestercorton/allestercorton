@@ -1,5 +1,5 @@
 #### Web Developer | Ormoc City, Philippines
-Passionate web developer with a love for problem-solving and a knack for building innovative solutions. Currently focused on honing skills in frontend and backend development to become a proficient Software Engineer.
+Passionate web developer with a love for problem-solving and a knack for building innovative solutions. Currently focused on honing skills in frontend and backend development to become a proficient developer.
 
 **Skills:**
 - **Frontend:** 
