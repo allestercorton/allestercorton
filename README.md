@@ -27,7 +27,6 @@
 - **Website:** [EverGreen](https://evergreenstreams.vercel.app/) (Watch live Formula 1 streams)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allestercorton&show_icons=true&hide_title=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allestercorton&layout=compact&theme=radical)
 
 ## 🌌 Current Focus
