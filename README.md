@@ -1,13 +1,9 @@
 # 🌟 Allester Corton
 ### Web Developer | Ormoc City, Philippines
 
----
-
 ![Background Image](https://source.unsplash.com/1600x900/?technology,web)  
 
 🌐 Passionate web developer focused on building innovative solutions and enhancing user experiences across the web.
-
----
 
 ## 🚀 Skills
 **Frontend:**  
@@ -25,24 +21,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
 
----
-
 ## 💬 Let's Connect
 - **Email:** [cortonallester@gmail.com](mailto:cortonallester@gmail.com)
 - **Phone:** 09513666254
 - **Website:** [EverGreen](https://evergreenstreams.vercel.app/) (Watch live Formula 1 streams)
 
----
-
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
----
-
 ## 🌌 Current Focus
 - Learning React Native to enhance cross-platform development skills.
-
----
 
 ### ✨ Thank you for visiting my profile! ✨
