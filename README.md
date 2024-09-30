@@ -1,5 +1,5 @@
 # 🌟 Allester Corton
-### Web Developer | Ormoc City, Philippines
+### Software Developer | Ormoc City, Philippines
 
 ![Background Image](https://ever-hosted-images.vercel.app/images/5df9c7a3b7b6.webp)  
 
@@ -25,9 +25,6 @@
 - **Email:** [cortonallester@gmail.com](mailto:cortonallester@gmail.com)
 - **Phone:** 09513666254
 - **Website:** [EverGreen](https://evergreenstreams.vercel.app/) (Watch live Formula 1 streams)
-
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allestercorton&layout=compact&theme=radical)
 
 ## 🌌 Current Focus
 - Learning React Native to enhance cross-platform development skills.
