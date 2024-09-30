@@ -3,8 +3,6 @@
 
 ![Background Image](https://ever-hosted-images.vercel.app/images/5df9c7a3b7b6.webp)  
 
-🌐 Passionate web developer focused on building innovative solutions and enhancing user experiences across the web.
-
 ## 🚀 Skills
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
