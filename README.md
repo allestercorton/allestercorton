@@ -1,7 +1,7 @@
 # 🌟 Allester Corton
-### Web Developer | Ormoc City, Philippines
+### Software Developer | Ormoc City, Philippines
 
-🌐 Passionate web developer focused on building innovative solutions and enhancing user experiences across the web.
+🌐 Passionate softeare developer focused on building innovative solutions and enhancing user experiences across the web and applications.
 
 ## 🚀 Skills
 **Frontend:**  
