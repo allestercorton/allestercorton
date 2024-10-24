@@ -1,9 +1,9 @@
-# 🌟 Allester Corton
+# Allester Corton
 ### Software Developer | Ormoc City, Philippines
 
-🌐 Passionate softeare developer focused on building innovative solutions and enhancing user experiences across the web and applications.
+Passionate softeare developer focused on building innovative solutions and enhancing user experiences across the web and applications.
 
-## 🚀 Skills
+## Skills
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
@@ -20,10 +20,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
 
-## 💬 Let's Connect
+## Let's Connect
 - **Ask me about:** Formula 1 or web development projects.
 - **Fun fact:** Mercedes is my team in Formula 1. Let's watch live streams on my website: [EverGreen](https://evergreenstreams.vercel.app/)
 
-## 📧 Get in Touch
+## Get in Touch
 - Email: [cortonallester@gmail.com](mailto:cortonallester@gmail.com)
 - Phone: 09513666254
