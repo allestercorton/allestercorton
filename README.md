@@ -20,7 +20,7 @@ Passionate software developer focused on building innovative solutions and enhan
 
 ## Let's Connect
 - **Ask me about:** Formula 1 or web development projects.
-- **Fun fact:** Mercedes is my team in Formula 1. Let's watch live stream on my website [ApexStream](https://apexstream.vercel.app/).
+- **Fun fact:** Mercedes is my team in Formula 1. Let's watch live stream on my website [F1Stream](https://f1stream.vercel.app/).
 
 ## Get in Touch
 - Email: [cortonallester@gmail.com](mailto:cortonallester@gmail.com)
